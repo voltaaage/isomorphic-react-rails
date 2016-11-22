@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-
 # Defaults
 gem 'rails', '4.2.7.1'
 gem 'sqlite3'
@@ -13,7 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Added
-gem 'react-rails', '~>1.5.8'
+gem 'react-rails'
 
 group :development, :test do
   gem 'byebug'
