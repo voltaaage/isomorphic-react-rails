@@ -16,6 +16,7 @@ gem 'react-rails'
 
 group :development, :test do
   gem 'byebug'
+  gem 'faker'
 end
 
 group :development do
